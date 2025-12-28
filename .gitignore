@@ -1,0 +1,12 @@
+# API Keys and Secrets (Crucial!)
+.env
+api key.txt
+
+# Python Environment and Cache
+__pycache__/
+venv/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
